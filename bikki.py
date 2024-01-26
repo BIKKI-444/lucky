@@ -1,0 +1,3 @@
+import lado
+lado.bikki()
+ 
